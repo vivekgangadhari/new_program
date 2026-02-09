@@ -1,0 +1,7 @@
+print("My name is Gangadhari Vivek")
+print("Welcome To Python life")
+print("Welcome To Python life")
+print("Welcome To Python life")
+print("Welcome To Python life")
+print("Welcome To Python life")
+print("Welcome To Python life")
